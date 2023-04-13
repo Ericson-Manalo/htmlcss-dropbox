@@ -173,12 +173,9 @@ li{
     margin-top: 2rem;
 }
 
-.column1,
-.column2,
-.column3{
+.column{
     width: calc(100% / 3 - 30px);
     height: 550px;
-    background-color: aquamarine;
 }
 
 .img-container{

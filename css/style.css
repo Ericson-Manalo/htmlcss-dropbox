@@ -153,10 +153,9 @@ li{
 
 .partner-text{
     width: 40%;
-    height: 400px;
-
+    height: 500px;
+    padding: 5rem 1rem;
 }
-
 
 img{
     width: 100%;
@@ -198,4 +197,8 @@ div.column button.blue-btn{
 
 div.enterprise-container p{
     margin-top: 1rem;
+}
+
+div.partner-image img{
+    padding-right: 3rem;
 }

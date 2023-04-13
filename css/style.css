@@ -92,7 +92,6 @@ li{
 
 .small-container{
     max-width: 1000px;
-    height: 800px;
     margin: 95px auto;
 }
 
@@ -140,13 +139,24 @@ li{
 
 .largecolumn-container{
     width: 850px;
-    height: 300px;
     margin: 40px auto;
 }
 
 .enterprise-container{
     justify-content: space-between;
 }
+
+.partner-image{
+    width: 60%;
+    height: 500px;
+}
+
+.partner-text{
+    width: 40%;
+    height: 400px;
+
+}
+
 
 img{
     width: 100%;

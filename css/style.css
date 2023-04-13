@@ -159,3 +159,8 @@ div.small-container h2, label{
 div ul li{
     margin-bottom: 1.2rem;
 }
+
+div button.blue-btn{
+    width: 100%;
+    margin-bottom: 1.5rem;
+}

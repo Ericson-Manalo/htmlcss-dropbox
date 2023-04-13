@@ -84,6 +84,6 @@ header nav{
     height: 100%;
 }
 
-div.text button{
+div.text button, p{
     margin-top: 30px;
 }

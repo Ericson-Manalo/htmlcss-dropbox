@@ -154,8 +154,33 @@ li{
 .partner-text{
     width: 40%;
     height: 500px;
-    padding: 5rem 1rem;
+    padding: 4rem 1rem;
 }
+
+.white-btn{
+    padding: 1rem;
+    border: 1px black solid;
+    font-size: 1rem;
+    background-color: white;
+    font-style: normal;
+    flex-wrap: wrap;
+}
+
+.first-row,
+.second-row{
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.column1,
+.column2,
+.column3{
+    width: calc(100% / 3 - 30px);
+    height: 400px;
+    background-color: aquamarine;
+}
+
 
 img{
     width: 100%;
@@ -187,7 +212,7 @@ div.small-container h2, label{
 
 div ul li{
     margin-bottom: 1.2rem;
-    float: left;
+    display:flex
 }
 
 div.column button.blue-btn{
@@ -201,4 +226,9 @@ div.enterprise-container p{
 
 div.partner-image img{
     padding-right: 3rem;
+}
+
+div.partner-text p{
+    margin-top: 2rem;
+    font-size: 1.1rem;
 }

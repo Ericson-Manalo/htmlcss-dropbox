@@ -173,7 +173,7 @@ li{
     margin-top: 2rem;
 }
 
-.column{
+.card{
     width: calc(100% / 3 - 30px);
     height: 550px;
 }
@@ -233,4 +233,12 @@ div.partner-image img{
 div.partner-text p{
     margin-top: 2rem;
     font-size: 1.1rem;
+}
+
+div.card p{
+    margin-top: 2rem;
+}
+
+div.card h3{
+    font-size: 1.5rem;
 }

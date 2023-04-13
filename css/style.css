@@ -183,6 +183,38 @@ li{
     height: 300px;
 }
 
+.blue-underline{
+    text-decoration: underline;
+    color: #0958e5;
+}
+
+.large-container{
+    width: 100%;
+    height: 600px;
+    background-color: aquamarine;
+}
+
+.multi-container{
+    height: 100%;
+    width: calc(100% / 3);
+    background-color: bisque;
+}
+
+
+.box{
+    height: calc(100% / 2);
+    width: calc(100% / 2);
+}
+
+.box-one{
+    height: 100%;
+    background-color: red;
+}
+
+.box-two{
+    height: 100%;
+    background-color: red;
+}
 
 img{
     width: 100%;

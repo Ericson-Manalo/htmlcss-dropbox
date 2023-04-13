@@ -17,6 +17,15 @@ h2{
     font-size: 2.6rem;
 }
 
+i{
+    padding-right: .5rem;
+}
+
+
+input{
+    margin-left: 1.2rem;
+}
+
 .flex{
     display: flex;
 }
@@ -107,6 +116,13 @@ h2{
     align-items: center;
     justify-content: center;
     border-bottom: 1px grey solid;
+}
+
+.column-container{
+    width: 250px;
+    height: 600px;
+    background-color: #0958e5;
+    margin: 40px auto;
 }
 
 

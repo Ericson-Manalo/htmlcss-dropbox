@@ -109,7 +109,7 @@ li{
 .advanced-column,
 .enterprise-column{
     width: 300px;
-    height: 800px;
+    height: 900px;
     border: 1px grey solid;
 }
 
@@ -127,6 +127,9 @@ li{
     margin: 40px auto;
 }
 
+.fa-check{
+    color: #0958e5;
+}
 
 img{
     width: 100%;
@@ -158,6 +161,7 @@ div.small-container h2, label{
 
 div ul li{
     margin-bottom: 1.2rem;
+    float: left;
 }
 
 div button.blue-btn{

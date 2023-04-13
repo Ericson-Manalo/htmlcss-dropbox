@@ -8,9 +8,29 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 .flex{
     display: flex;
+}
+
+.flex-centered{
+    display: flex;
     align-items: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.blue-btn{
+    color: white;
+    background-color: #0958e5;
+    padding: .8rem 1rem;
+    border: #0958e5;
 }
 
 header{

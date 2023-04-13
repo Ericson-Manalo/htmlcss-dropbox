@@ -21,9 +21,12 @@ i{
     padding-right: .5rem;
 }
 
-
 input{
     margin-left: 1.2rem;
+}
+
+li{
+    list-style: none;
 }
 
 .flex{
@@ -121,7 +124,6 @@ input{
 .column-container{
     width: 250px;
     height: 600px;
-    background-color: #0958e5;
     margin: 40px auto;
 }
 
@@ -146,10 +148,14 @@ header nav{
 }
 
 div.low-jumbo  button, p{
-    margin-top: 28px;
+    margin-bottom: 28px;
 }
 
 div.small-container h2, label{
     margin-top: 40px;
     padding-bottom: 45px;
+}
+
+div ul li{
+    margin-bottom: 1.2rem;
 }

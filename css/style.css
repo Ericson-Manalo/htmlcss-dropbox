@@ -209,25 +209,25 @@ li{
 .box-one{
     height: 100%;
     width: 100%;
-    background-color: red;
+    background-color: #a2d39b;
 }
 
 .box-two{
     height: 100%;
     width: 100%;
-    background-color: green;
+    background-color: #1993ce;
 }
 
 .box-three{
     height: 100%;
     width: 100%;
-    background-color: blue;
+    background-color: #61082b;
 }
 
 .box-four{
     height: 100%;
     width: 100%;
-    background-color: yellow;
+    background-color: #fb1c1d;
 }
 
 .mono-box{

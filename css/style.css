@@ -25,10 +25,6 @@ i{
     padding-right: .5rem;
 }
 
-input{
-    margin-left: 1.2rem;
-}
-
 li{
     list-style: none;
 }
@@ -114,9 +110,19 @@ footer{
     margin-left: 1.2rem;
 }
 
+.invoice-btn{
+    margin-right: 2rem;
+    display: inline-block;
+}
+
 .business-column{
     justify-content: space-between;
     margin-top: 3rem;
+}
+
+.line-column{
+    width: 20%;
+    margin-bottom: 1.3rem;
 }
 
 .professional-column,
@@ -360,7 +366,15 @@ div.column button.blue-btn{
     margin-bottom: 1.5rem;
 }
 
+.bold-text{
+    font-weight:bolder;
+}
+
 div.enterprise-container p{
+    margin-top: 1rem;
+}
+
+div.column-container p.bold-text{
     margin-top: 1rem;
 }
 

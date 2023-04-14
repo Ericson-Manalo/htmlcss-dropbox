@@ -207,11 +207,13 @@ li{
 }
 
 .box-one{
+    width: 100%;
     height: 100%;
     background-color: red;
 }
 
 .box-two{
+    width: 100%;
     height: 100%;
     background-color: red;
 }

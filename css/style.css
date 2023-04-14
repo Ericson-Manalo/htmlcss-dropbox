@@ -317,6 +317,10 @@ footer{
     color: #999898;
 }
 
+.foot-line{
+    width: 10%;
+}
+
 nav ul li{
     list-style-type: none;
     margin-left: 1.7rem;

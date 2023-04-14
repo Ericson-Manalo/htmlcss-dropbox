@@ -195,7 +195,6 @@ li{
 }
 
 .multi-container{
-    position: relative;
     height: 100%;
     width: calc(100% / 3);
     background-color: bisque;
@@ -208,48 +207,56 @@ li{
 }
 
 .box-one{
+    position: relative;
     height: 100%;
     width: 100%;
     background-color: #a2d39b;
 }
 
 .box-two{
+    position: relative;
     height: 100%;
     width: 100%;
     background-color: #1993ce;
 }
 
 .box-three{
+    position: relative;
     height: 100%;
     width: 100%;
     background-color: #61082b;
 }
 
 .box-four{
+    position: relative;
     height: 100%;
     width: 100%;
     background-color: #fb1c1d;
 }
 
 .box-five{
+    position: relative;
     height: 100%;
     width: 100%;
     background-color: #d5001f;
 }
 
 .box-six{
+    position: relative;
     height: 100%;
     width: 100%;
     background-color:#0d2381;
 }
 
 .box-seven{
+    position: relative;
     height: 100%;
     width: 100%;
     background-color: #b4d0e7;
 }
 
 .box-eight{
+    position: relative;
     height: 100%;
     width: 100%;
     background-color: #fed830;
@@ -325,6 +332,6 @@ div.multi-box img{
     height: 150px;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,50%);
+    transform: translate(-50%, -50%);
         
 }

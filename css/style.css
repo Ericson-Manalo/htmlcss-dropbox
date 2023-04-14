@@ -287,6 +287,12 @@ footer{
     margin: 3rem auto;
 }
 
+.design-line{
+    width: 20%;
+    margin: 3rem 0;
+ 
+}
+
 .blue-container{
     width: 100%;
     height: 335px;
@@ -394,9 +400,7 @@ div.container-monobox h1{
     font-weight: bold;
 }
 
-div.container-monobox h3{
-    margin-bottom: 5rem;
-}
+
 
 div.container-monobox p{
     margin-bottom: 5rem;

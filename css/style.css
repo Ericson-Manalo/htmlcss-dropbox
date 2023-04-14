@@ -13,6 +13,10 @@ a{
     color: black;
 }
 
+header{
+    height: 90px;
+}
+
 h2{
     font-size: 2.6rem;
 }
@@ -27,6 +31,17 @@ input{
 
 li{
     list-style: none;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+footer{
+    height: 500px;
+    background-color: black;
+    color: white;
 }
 
 .flex{
@@ -284,13 +299,8 @@ li{
     border-bottom: 1px solid black;
 }
 
-img{
-    width: 100%;
-    height: 100%;
-}
-
-header{
-    height: 90px;
+.foot-column{
+    margin-top: 5rem;
 }
 
 nav ul li{
@@ -383,6 +393,10 @@ div.space-between button{
     border: #b4d0e7;
 }
 
+div.foot-column h3{
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
 
 #red-title{
     color: #60062b;

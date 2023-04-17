@@ -220,8 +220,8 @@ footer{
 }
 
 .multi-container{
-    height: 100%;
-    width: calc(100% / 3);
+    height: calc(100vw / 3);
+    width: calc(100vw / 3);
     background-color: bisque;
 }
 
@@ -231,7 +231,7 @@ footer{
     width: calc(100% / 2);
 }
 
-.box-one{
+.green-box{
     position: relative;
     height: 100%;
     width: 100%;
@@ -289,12 +289,13 @@ footer{
 }
 
 .mono-box{
-    width: calc(100% / 3);
-    height: 100%;
+    width: calc(100vw / 3);
+    height: calc(100vw / 3);
 }
 
 .container-monobox{
-    width: 480px;
+    width: 100%;
+    height: 100%;
     margin: 3rem auto;
 }
 

@@ -236,6 +236,7 @@ footer{
     height: 100%;
     width: 100%;
     background-color: #a2d39b;
+    border: 10px #d1e9cd solid;
 }
 
 .box-two{

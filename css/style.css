@@ -235,14 +235,33 @@ footer{
     height: 100%;
     width: 100%;
     background-color: #a2d39b;
+    cursor: pointer;
+    transition: infinite;
+}
+
+.green-box:active{
     border: 10px #d1e9cd solid;
 }
+
 
 .lightblue-box{
     position: relative;
     height: 100%;
     width: 100%;
     background-color: #1993ce;
+    cursor: pointer;
+}
+
+.florida-box{
+    position: absolute;
+    left: calc(100vw / 3);
+    opacity: 0;
+}
+
+
+.lightblue-box:active{
+    border: 10px #8ECAE7 solid;
+    opacity: 1;
 }
 
 .bordeaux-box{
@@ -293,15 +312,16 @@ footer{
 }
 
 .container-monobox{
+    position: relative;
     width: 100%;
     height: 100%;
-    margin: 2.5rem 1.5rem;
+    margin: 0 auto;
+    padding: 2rem;
 }
 
 .design-line{
     width: 20%;
     margin: 3rem 0;
- 
 }
 
 .blue-container{
@@ -410,20 +430,16 @@ div.card h3{
 
 div.multi-box img{
     position: absolute;
-    width: 160px;
-    height: 75px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     filter: invert(100%);
 }
 
-div.container-monobox h1{
-    font-size: 3.6rem;
-    font-weight: bold;
+.client-logo{
+    width: 160px;
+    height: 75px;
 }
-
-
 
 div.container-monobox p{
     margin-bottom: 5rem;

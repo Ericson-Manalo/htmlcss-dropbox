@@ -239,49 +239,49 @@ footer{
     border: 10px #d1e9cd solid;
 }
 
-.box-two{
+.lightblue-box{
     position: relative;
     height: 100%;
     width: 100%;
     background-color: #1993ce;
 }
 
-.box-three{
+.bordeaux-box{
     position: relative;
     height: 100%;
     width: 100%;
     background-color: #61082b;
 }
 
-.box-four{
+.lightred-box{
     position: relative;
     height: 100%;
     width: 100%;
     background-color: #fb1c1d;
 }
 
-.box-five{
+.darkred-box{
     position: relative;
     height: 100%;
     width: 100%;
     background-color: #d5001f;
 }
 
-.box-six{
+.darkblue-box{
     position: relative;
     height: 100%;
     width: 100%;
     background-color:#0d2381;
 }
 
-.box-seven{
+.celeste-box{
     position: relative;
     height: 100%;
     width: 100%;
     background-color: #b4d0e7;
 }
 
-.box-eight{
+.yellow-box{
     position: relative;
     height: 100%;
     width: 100%;
